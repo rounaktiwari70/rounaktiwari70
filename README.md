@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Rounak Tiwari
 
-<!--
-**rounaktiwari70/rounaktiwari70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Data Analysis
+- Data Visualization
+
+---
+
+## 📌 Projects
+- 📊 Sales Data Analysis & Dashboard  
+- 💻 Customer & Sales Analysis (SQL)  
+- 🔥 Sales Forecasting Project  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/rounaktiwari7070  
+
+---
+
+## 💡 About Me
+I am passionate about data analysis and turning raw data into meaningful insights.  
+Currently learning and building real-world projects to grow as a Data Analyst.
