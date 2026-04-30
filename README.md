@@ -1,11 +1,11 @@
 # Hi 👋, I'm Rounak Tiwari
 
-🎓 B.Tech CSE Student  
-📊 Aspiring Data Analyst  
+B.Tech CSE Student  
+ Aspiring Data Analyst  
 
 ---
 
-## 🚀 Skills
+##  Skills
 - Python
 - SQL
 - Excel
@@ -15,18 +15,17 @@
 
 ---
 
-## 📌 Projects
-- 📊 Sales Data Analysis & Dashboard  
-- 💻 Customer & Sales Analysis (SQL)  
-- 🔥 Sales Forecasting Project  
+##  Projects
+-  Sales Data Analysis & Dashboard  
+-  Customer & Sales Analysis (SQL)  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rounaktiwari7070  
 
 ---
 
-## 💡 About Me
+## About Me
 I am passionate about data analysis and turning raw data into meaningful insights.  
 Currently learning and building real-world projects to grow as a Data Analyst.
