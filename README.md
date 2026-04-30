@@ -15,11 +15,6 @@ B.Tech CSE Student
 
 ---
 
-##  Projects
--  Sales Data Analysis & Dashboard  
--  Customer & Sales Analysis (SQL)  
-
----
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rounaktiwari7070  
